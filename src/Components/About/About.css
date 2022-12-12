@@ -1,0 +1,18 @@
+#About{
+    height: 700px;
+    background-color: aquamarine;
+  }
+  .aboutpic{
+    height: 600px;
+    width: 600px;
+    float: left;
+  }
+  .aboutme{
+    color: white; 
+    font-size: 20px;
+    line-height: 1.5;
+  }
+.abo{
+  font-size: 40px;
+  margin: 0;
+}
